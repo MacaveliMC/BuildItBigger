@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JokeActivity</string>
+    <string name="title_activity_joke_activity_main">JokeActivityMain</string>
+    <string name="action_settings">Settings</string>
+</resources>
